@@ -1,10 +1,10 @@
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### Olá! Bem vindo ao meu perfil! 🖖🤓
+<h3>Olá! Bem vindo ao meu perfil! 🖖🤓</h3>
+
 <p align="left">
 Meu nome é Ermerson Rafael, sou desenvolvedor <strong>Back-end</strong>.<br>
-Atualmente trabalho como Analista de Desenvolvimento na [Bradesco](https://banco.bradesco/html/classic/index.shtm) no projeto [Autoline](https://www.autoline.com.br).
+Atualmente trabalho como Analista de Desenvolvimento na <a href="https://banco.bradesco/html/classic/index.shtm">Bradesco</a> no projeto a <a href="https://www.autoline.com.br">Autoline</a>.
 </p>
 
 <p align="left">
@@ -25,7 +25,7 @@ Atualmente trabalho como Analista de Desenvolvimento na [Bradesco](https://banco
 
 <p align="left">
   <a href="#" alt="Outlook">
-  <img src="https://img.shields.io/badge/-Email-168DE2?style=flat-square&labelColor=168DE2&logo=mail.ru&logoColor=white&link=emal:ermersonrafael@hotmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Email-168DE2?style=flat-square&labelColor=168DE2&logo=mail.ru&logoColor=white&link=mailto:ermersonrafael@hotmail.com" /></a>
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
@@ -33,10 +33,6 @@ Atualmente trabalho como Analista de Desenvolvimento na [Bradesco](https://banco
   <a href="#" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 </p> 
-
-<hr>
-
-
 
 
 <!--
