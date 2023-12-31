@@ -1,11 +1,3 @@
-<style>
-.flex {
-	display: flex;
-  justify-content: center;
-  gap: 10px;
-}
-</style>
-
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/Ermerson/Ermerson/main/images/profile_banner.gif" />
 
 <p align="center">I ❤️ solve great challenges using tech.
@@ -25,7 +17,7 @@ Software Engineer, Backend & Frontend Developer
 
 <br>
 
-<div  class="flex" style="margin:50 0 50 0">
+<div  style="margin:50 0 50 0; display:flex; justify-content: center;  gap: 10px;">
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ermerson&theme=onedark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
   
