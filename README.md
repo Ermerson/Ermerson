@@ -17,11 +17,11 @@ Software Engineer, Backend & Frontend Developer
 
 <br>
 
-<div  style="margin:50 0 50 0; display:flex; justify-content: center;  gap: 10px;">
+<div  style="margin:20 0 20 0; display:flex; justify-content: center;  gap: 5px;">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ermerson&theme=onedark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
+  <img width=50% src="https://github-readme-streak-stats.herokuapp.com?user=ermerson&theme=onedark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ermerson&show_icons=true&theme=onedark" />
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=ermerson&show_icons=true&theme=onedark" />
 
 </div>
 
