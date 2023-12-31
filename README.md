@@ -18,8 +18,8 @@ Software Engineer, Backend & Frontend Developer
 <br>
 
 <div align=center>
-  <img width=45% src="https://github-readme-streak-stats.herokuapp.com?user=ermerson&theme=onedark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />  
-  <img width=45% src="https://github-readme-stats.vercel.app/api?username=ermerson&show_icons=true&theme=onedark" />
+  <img width=495px height=195px src="https://github-readme-streak-stats.herokuapp.com?user=ermerson&theme=onedark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />  
+  <img width=495px height=195px src="https://github-readme-stats.vercel.app/api?username=ermerson&show_icons=true&theme=onedark" />
 </div>
 
 ### Skills
